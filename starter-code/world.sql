@@ -1,4 +1,4 @@
---
+--Joshua Rizek
 -- PostgreSQL port of the MySQL "World" database.
 --
 -- The sample data used in the world database is Copyright Statistics
